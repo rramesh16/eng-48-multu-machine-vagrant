@@ -4,4 +4,6 @@
 
 
 ## Usage
-- 
+- Clone this repo
+- On the bash command line write: ````vagrant up````
+- Bottom line of your output should read: ````> app: Your app is ready and listening on port 3000````
